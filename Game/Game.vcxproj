@@ -219,7 +219,6 @@
     <ClInclude Include="MonsterThreat.h" />
     <ClInclude Include="MossMerchant.h" />
     <ClInclude Include="MuRoomy.h" />
-    <ClInclude Include="MuunDef.h" />
     <ClInclude Include="MuunScript.h" />
     <ClInclude Include="MuunSystem.h" />
     <ClInclude Include="NixiesLake.h" />
@@ -277,7 +276,7 @@
     <ClInclude Include="WorldPath.h" />
     <ClInclude Include="spe.h" />
     <ClInclude Include="System_Message.h" />
-    <ClInclude Include="TeleportMgr.h" />
+    <ClInclude Include="TeleportManager.h" />
     <ClInclude Include="VIPMgr.h" />
     <ClInclude Include="WorldClass.h" />
     <ClInclude Include="WorldDef.h" />
@@ -520,7 +519,7 @@
     <ClCompile Include="Skill.cpp" />
     <ClCompile Include="SkillMgr.cpp" />
     <ClCompile Include="System_Message.cpp" />
-    <ClCompile Include="TeleportMgr.cpp" />
+    <ClCompile Include="TeleportManager.cpp" />
     <ClCompile Include="UnitSkill.cpp" />
     <ClCompile Include="ObjectViewport.cpp" />
     <ClCompile Include="VIPMgr.cpp" />
